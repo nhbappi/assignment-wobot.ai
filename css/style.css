@@ -1,0 +1,104 @@
+body{
+    background-color: #E5E5E5;
+}
+/* .form_page{
+    
+} */
+.obot{
+    font-size: 28px;
+    margin-left: 5px;
+}
+.form_wrapper{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FFFFFF;
+    box-shadow: 0px 5px 45px -12px;
+    padding: 30px 60px;
+    border-radius: 18px;
+    margin-top: 50px;
+}
+
+.logo{
+    text-align: center;
+}
+
+.form_wrapper img{
+    text-align: center;
+    margin: 0 auto;
+}
+.form_wrapper h5{
+    text-align: center;
+    font-weight: 700;
+}
+.form_wrapper p{
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.under_heading{
+    font-size: 16px;
+}
+label{
+    font-size: 17px;
+    color: #545454;
+    font-weight: 600;
+    margin-bottom: 8px;
+}
+input{
+    width: 100%;
+    border-radius: 8px;
+    border: 2px solid #CED4DA;
+    padding: 5px 18px;
+    font-size: 14px;
+    font-weight: 600;
+    color: lightslategray;
+}
+input::placeholder{
+    font-size: 14px;
+    color: #A0A0A0;
+}
+.selection{
+    width: 100%;
+    padding: 8px 10px;
+    border: 2px solid #CED4DA;
+    border-radius: 8px;
+    font-size: 14px;
+    color: #A0A0A0;
+    font-weight: 600;
+}
+.company_title{
+    margin-top: 22px;
+}
+.conpany_size span{
+    background-color: #CED4DA;
+    padding: 4px 10px;
+    color: #5d5252;
+    font-weight: 600;
+    margin-right: 10px;
+    font-size: 17px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.conpany_size span:hover{
+    background-color: #3766E8;
+    color: white;
+}
+
+.started_button{
+    width: 100%;
+    text-align: center;
+    padding: 8px 0px;
+    margin-top: 50px;
+    border-radius: 8px;
+    background-color: #3766E8;
+    border: none;
+    font-size: 17px;
+    color: #CED4DA;
+    font-weight: 600;
+}
+
+.size_selection{
+    background-color: #3766E8;
+    color: white;
+}
